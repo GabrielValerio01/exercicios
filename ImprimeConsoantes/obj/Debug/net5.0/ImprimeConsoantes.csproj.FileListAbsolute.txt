@@ -1,0 +1,16 @@
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeConsoantes\bin\Debug\net5.0\ImprimeConsoantes.exe
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeConsoantes\bin\Debug\net5.0\ImprimeConsoantes.deps.json
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeConsoantes\bin\Debug\net5.0\ImprimeConsoantes.runtimeconfig.json
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeConsoantes\bin\Debug\net5.0\ImprimeConsoantes.runtimeconfig.dev.json
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeConsoantes\bin\Debug\net5.0\ImprimeConsoantes.dll
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeConsoantes\bin\Debug\net5.0\ImprimeConsoantes.pdb
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeConsoantes\obj\Debug\net5.0\ImprimeConsoantes.csproj.AssemblyReference.cache
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeConsoantes\obj\Debug\net5.0\ImprimeConsoantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeConsoantes\obj\Debug\net5.0\ImprimeConsoantes.AssemblyInfoInputs.cache
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeConsoantes\obj\Debug\net5.0\ImprimeConsoantes.AssemblyInfo.cs
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeConsoantes\obj\Debug\net5.0\ImprimeConsoantes.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeConsoantes\obj\Debug\net5.0\ImprimeConsoantes.dll
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeConsoantes\obj\Debug\net5.0\refint\ImprimeConsoantes.dll
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeConsoantes\obj\Debug\net5.0\ImprimeConsoantes.pdb
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeConsoantes\obj\Debug\net5.0\ImprimeConsoantes.genruntimeconfig.cache
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeConsoantes\obj\Debug\net5.0\ref\ImprimeConsoantes.dll

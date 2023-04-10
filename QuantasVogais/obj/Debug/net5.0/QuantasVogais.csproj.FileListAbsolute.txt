@@ -1,0 +1,16 @@
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\QuantasVogais\bin\Debug\net5.0\QuantasVogais.exe
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\QuantasVogais\bin\Debug\net5.0\QuantasVogais.deps.json
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\QuantasVogais\bin\Debug\net5.0\QuantasVogais.runtimeconfig.json
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\QuantasVogais\bin\Debug\net5.0\QuantasVogais.runtimeconfig.dev.json
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\QuantasVogais\bin\Debug\net5.0\QuantasVogais.dll
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\QuantasVogais\bin\Debug\net5.0\QuantasVogais.pdb
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\QuantasVogais\obj\Debug\net5.0\QuantasVogais.csproj.AssemblyReference.cache
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\QuantasVogais\obj\Debug\net5.0\QuantasVogais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\QuantasVogais\obj\Debug\net5.0\QuantasVogais.AssemblyInfoInputs.cache
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\QuantasVogais\obj\Debug\net5.0\QuantasVogais.AssemblyInfo.cs
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\QuantasVogais\obj\Debug\net5.0\QuantasVogais.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\QuantasVogais\obj\Debug\net5.0\QuantasVogais.dll
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\QuantasVogais\obj\Debug\net5.0\refint\QuantasVogais.dll
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\QuantasVogais\obj\Debug\net5.0\QuantasVogais.pdb
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\QuantasVogais\obj\Debug\net5.0\QuantasVogais.genruntimeconfig.cache
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\QuantasVogais\obj\Debug\net5.0\ref\QuantasVogais.dll

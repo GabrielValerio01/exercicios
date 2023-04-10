@@ -1,0 +1,16 @@
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeVogais\bin\Debug\net5.0\ImprimeVogais.exe
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeVogais\bin\Debug\net5.0\ImprimeVogais.deps.json
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeVogais\bin\Debug\net5.0\ImprimeVogais.runtimeconfig.json
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeVogais\bin\Debug\net5.0\ImprimeVogais.runtimeconfig.dev.json
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeVogais\bin\Debug\net5.0\ImprimeVogais.dll
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeVogais\bin\Debug\net5.0\ImprimeVogais.pdb
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeVogais\obj\Debug\net5.0\ImprimeVogais.csproj.AssemblyReference.cache
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeVogais\obj\Debug\net5.0\ImprimeVogais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeVogais\obj\Debug\net5.0\ImprimeVogais.AssemblyInfoInputs.cache
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeVogais\obj\Debug\net5.0\ImprimeVogais.AssemblyInfo.cs
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeVogais\obj\Debug\net5.0\ImprimeVogais.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeVogais\obj\Debug\net5.0\ImprimeVogais.dll
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeVogais\obj\Debug\net5.0\refint\ImprimeVogais.dll
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeVogais\obj\Debug\net5.0\ImprimeVogais.pdb
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeVogais\obj\Debug\net5.0\ImprimeVogais.genruntimeconfig.cache
+C:\Users\gabriel.valerio\Desktop\exerciciosC#\ImprimeVogais\obj\Debug\net5.0\ref\ImprimeVogais.dll
